@@ -19,12 +19,12 @@ namespace TestConsoleApp
     {
         public void MainProgram()
         {
-            string text = "Testing testing ";
+            string text = "Testing testing";
             int x = 1;
             int y = 2;
             int z = 3;
 
-            Console.WriteLine(text + x +" "+y+" "+z+"!");
+            Console.WriteLine($"{text} {x} {y} {z} !");
             Console.ReadLine();
 
             Console.WriteLine(User.test(x, y, z));
