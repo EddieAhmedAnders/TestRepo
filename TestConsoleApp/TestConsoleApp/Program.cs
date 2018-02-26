@@ -17,6 +17,7 @@ namespace TestConsoleApp
 
     public class Main
     {
+        
         public void MainProgram()
         {
             string text = "Testing testing";
@@ -28,7 +29,9 @@ namespace TestConsoleApp
             Console.ReadLine();
 
             Console.WriteLine(User.test(x, y, z));
-            Console.ReadLine();
+            Console.ReadLine();            
+            
+            TestClass testClass = new TestClass();
         }
     }
 }

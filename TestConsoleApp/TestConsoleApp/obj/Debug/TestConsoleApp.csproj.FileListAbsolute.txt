@@ -12,3 +12,7 @@ C:\Users\Lexicon\Source\Repos\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\T
 C:\Users\Lexicon\Source\Repos\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Lexicon\Source\Repos\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
 C:\Users\Lexicon\Source\Repos\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+C:\Users\Lexicon\Documents\GitHub\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Lexicon\Documents\GitHub\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\Documents\GitHub\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\Lexicon\Documents\GitHub\TestRepo\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
