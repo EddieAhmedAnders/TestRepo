@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestConsoleApp
 {
-    public class User
+    public static class User
     {
-        //set properties!
+        public static int test(int a, int b, int c)
+        {
+            return a + b + c;
+        }
     }
 }

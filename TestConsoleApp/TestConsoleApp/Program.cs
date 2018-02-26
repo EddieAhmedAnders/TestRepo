@@ -27,7 +27,8 @@ namespace TestConsoleApp
             Console.WriteLine(text + x +" "+y+" "+z+"!");
             Console.ReadLine();
 
-            //call User class here
+            Console.WriteLine(User.test(x, y, z));
+            Console.ReadLine();
         }
     }
 }
